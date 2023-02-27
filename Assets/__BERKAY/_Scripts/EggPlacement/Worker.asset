@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80c601f71cc3cf04ebd99a8fee147a8d, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  slotCount: 8
+  breakTime: 0
+  productType: {fileID: 6072128224900885877, guid: 6446d0e8ff9b95746ba147cf89437afa, type: 3}

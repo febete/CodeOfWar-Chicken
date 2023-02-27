@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WormTransferField
+  - egg
+  - egg2
+  - Enemy
+  - EnemyArea
+  - Stone
+  - incubation
+  - soldierIncubation
+  - workerIncubation
+  - WorkerA
+  - SoliderA
+  - Worm
+  - WarriorChicken
+  - EnemyStone
+  - StartWar
+  - SoliderWaitArea
+  - StartOrder
+  - Hole
+  - WorkerChicken
+  - IdleHole
+  - Beak
+  - Rifle
+  - Missile
+  - Bullet
+  - BulletEnemy
+  - exit
+  - AllEnemyArea
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Egg
+  - EggHolder
+  - Solider
+  - Player
+  - Enemy
+  - Worker
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
